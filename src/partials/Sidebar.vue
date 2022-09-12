@@ -13,6 +13,7 @@
       </button>
     </div>
 
+    <h5>Menu</h5>
     <div class="menu">
       <router-link to="/" class="menu-link">
         <span class="material-icons">home</span>
